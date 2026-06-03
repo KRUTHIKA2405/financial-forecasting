@@ -1,0 +1,13 @@
+yfinance
+pandas
+numpy
+scikit-learn
+tensorflow
+statsmodels
+arch
+prophet
+matplotlib
+seaborn
+pyyaml
+pandas-ta
+pmdarima
